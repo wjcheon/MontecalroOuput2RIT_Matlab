@@ -1,5 +1,5 @@
 ## About this code  
-The script "main.m" is wirtten for **converting Monte-carlo dose output to *.mat file** , which is inserting RIT (Dose analysis program).  
+The script "main.m" is wirtten for **converting Monte-carlo dose output to ~.mat file** , which is inserting RIT (Dose analysis program).  
 
 ### Figure    
 <img src = https://github.com/wjcheon/MontecalroOuput2RIT_Matlab/blob/master/DoseDistribution_HeterogeneousPhantom.png />  
